@@ -32,4 +32,4 @@ alias agst='(ec && gst && ep && gst && ea && gst)'
 alias n='notify-send'
 alias ap='cd $ENTANDO_HOME/myapp' 
 alias ap5='cd $ENTANDO_HOME/myapp501' 
-
+alias sjd='(export spring_profiles_active=swagger ; jd)'
