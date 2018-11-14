@@ -13,7 +13,8 @@ alias gcm='git checkout master'
 alias gst='git status'
 
 alias e='cd $ENTANDO_HOME'
-alias es='cd ~/bin/entando-dev-scripts'
+alias es='vim ~/bin/entando-dev-scripts/entandoAliases.sh'
+
 alias eb='cd $ENTANDO_HOME/BE'
 alias ec='cd $ENTANDO_HOME/BE/entando-core && pwd'
 alias ep='cd $ENTANDO_HOME/BE/entando-components && pwd'
